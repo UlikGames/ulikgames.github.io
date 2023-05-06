@@ -8,7 +8,7 @@ export const METADATA = {
   title: "Portfolio | Ulvin Najafov",
   description:
     "I bridge the gap between web development and game development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ulikgames-github-io.vercel.app",
+  siteUrl: "https://ulikgames.vercel.app",
 };
 
 export const MENULINKS = [
