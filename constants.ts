@@ -318,7 +318,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "Graduated from Secondary School 🎓",
     size: ItemSize.SMALL,
     subtitle:
-      "Built solutions for employee engagement, productivity and performance 🎯",
+      "The end of 11 years of adventure",
     slideImage: "/timeline/graduate.jpg",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
