@@ -2,7 +2,7 @@
 
 ## PORTFOLIO
 
-[Live Demo](https://ulikgames-github-io.vercel.app)
+[Live Demo](https://ulikgames.vercel.app)
 
 To cater to my goal of having my own portfolio website since 2020 🚀
 
