@@ -1,0 +1,27 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="70" height="70" rx="10" fill="#420041"/>
+<path d="M94.8573 -15.5184C94.8573 -15.5184 68.4787 -2.95593 73.1606 28.1212C78.4135 62.967 47.9525 77.9223 27.1408 69.308C6.32911 60.6639 7.78508 28.6895 -31.7828 27.7024C-72.2071 26.7154 -80.7145 -13.5443 -80.7145 -13.5443" stroke="white" stroke-opacity="0.2" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M64.3677 -24.8806C64.3677 -24.8806 52.9484 1.68004 57.0308 28.0911C61.1418 54.5021 42.671 57.6128 35.3341 54.5021C20.0894 48.1013 17.1489 13.8237 -7.4597 11.6103C-25.959 9.93536 -50.8531 23.1857 -64.0424 -6.87439" stroke="white" stroke-opacity="0.2" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M52.0634 -13.0358C52.0634 -13.0358 56.1743 14.0931 37.9891 9.24758C17.1489 3.68422 17.4629 -9.35679 -8.91565 2.96636C-18.308 7.36322 -56.1059 8.64937 -48.4835 -15.5184" stroke="white" stroke-opacity="0.2" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M38.8741 45.1403C43.2415 45.1403 46.782 39.6766 46.782 32.9368C46.782 26.197 43.2415 20.7333 38.8741 20.7333C34.5067 20.7333 30.9663 26.197 30.9663 32.9368C30.9663 39.6766 34.5067 45.1403 38.8741 45.1403Z" stroke="white" stroke-opacity="0.2" stroke-width="2" stroke-miterlimit="10"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M 35.021 11 C 21.185 11 10 22 10 35.608 C 10 46.486 17.167 55.694 27.108 58.953 C 28.351 59.198 28.807 58.424 28.807 57.772 C 28.807 57.202 28.766 55.246 28.766 53.209 C 21.806 54.676 20.356 50.275 20.356 50.275 C 19.238 47.423 17.58 46.69 17.58 46.69 C 15.302 45.183 17.746 45.183 17.746 45.183 C 20.273 45.346 21.599 47.709 21.599 47.709 C 23.836 51.457 27.44 50.398 28.89 49.746 C 29.097 48.157 29.76 47.057 30.464 46.446 C 24.913 45.875 19.072 43.757 19.072 34.304 C 19.072 31.615 20.066 29.415 21.64 27.704 C 21.392 27.093 20.522 24.567 21.889 21.185 C 21.889 21.185 24.002 20.533 28.765 23.711 C 30.805 23.173 32.908 22.899 35.021 22.896 C 37.133 22.896 39.287 23.182 41.276 23.711 C 46.04 20.533 48.152 21.185 48.152 21.185 C 49.52 24.567 48.649 27.093 48.401 27.704 C 50.017 29.415 50.969 31.615 50.969 34.304 C 50.969 43.757 45.129 45.834 39.536 46.446 C 40.447 47.22 41.234 48.686 41.234 51.009 C 41.234 54.309 41.193 56.957 41.193 57.772 C 41.193 58.424 41.649 59.198 42.891 58.954 C 52.833 55.694 60 46.486 60 35.608 C 60.041 22 48.815 11 35.021 11 Z" style="fill: rgb(255, 255, 255);"/>
+</g>
+<defs>
+<filter id="filter0_d" x="-8" y="2" width="90" height="74" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="70" height="70" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="60" height="44" fill="white" transform="translate(7 13)"/>
+</clipPath>
+</defs>
+</svg>
