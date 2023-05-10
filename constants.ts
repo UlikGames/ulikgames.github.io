@@ -62,12 +62,12 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
-    name: "GorGood Backrooms",
+    name: "Behind the Rooms",
     image: "/projects/backrooms.png",
     blurImage: "/projects/blur/backrooms-blur.png",
     description: "Horror game made with Unreal Engine",
     gradient: ["#5E4C06", "#746528"],
-    url: "https://github.com/UlikGames/GorGood-Backrooms",
+    url: "https://github.com/UlikGames/Behind-the-Rooms",
     tech: ["unreal"],
   },
   {
