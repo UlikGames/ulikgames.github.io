@@ -243,7 +243,7 @@ export const SKILLS = {
     "less",
   ],
   userInterface: ["figma", "sketch", "illustrator", "photoshop"],
-  other: ["github", "git", "unreal", "aftereffects", "lightroom"],
+  other: ["github", "unreal", "godot", "unity", "git", "aftereffects", "lightroom"],
 };
 
 export enum Branch {
