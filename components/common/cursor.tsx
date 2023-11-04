@@ -20,11 +20,11 @@ const Cursor = ({ isDesktop }: IDesktop) => {
 
   const onHover = () => {
     gsap.to(cursor.current, {
-      scale: 1,
+      scale: 0.5,
       duration: 0.3,
     });
     gsap.to(follower.current, {
-      scale: 2,
+      scale: 1,
       duration: 0.3,
     });
   };
