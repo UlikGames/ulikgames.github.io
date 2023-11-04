@@ -16,7 +16,7 @@ const Header = () => {
       <div className="flex justify-between section-container">
         <a href="#home" className="link">
           <Image
-            src="/logo.svg"
+            src="/logo.png"
             alt="Logo - UlikGames"
             width={22}
             height={22}
