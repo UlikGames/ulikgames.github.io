@@ -18,8 +18,8 @@ const Header = () => {
           <Image
             src="/logo.png"
             alt="Logo - UlikGames"
-            width={22}
-            height={22}
+            width={44}
+            height={44}
           />
         </a>
         <nav className={`outer-menu ${menuVisible ? "menu-visible" : ""}`}>
