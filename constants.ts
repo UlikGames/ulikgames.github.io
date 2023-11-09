@@ -77,7 +77,16 @@ export const PROJECTS: IProject[] = [
     description: "Interactive Portfolio with Next, GSAP, Tailwind, and React",
     gradient: ["#172839", "#334659"],
     url: "https://ulikgames-github-io.vercel.app",
-    tech: ["next", "gsap", "tailwind", "react"],
+    tech: ["next", "gsap", "tailwind", "react", "vercel"],
+  },
+  {
+    name: "Fakeflix",
+    image: "/projects/netflix.png",
+    blurImage: "/projects/blur/netflix-blur.png",
+    description: "A clone of Netflix",
+    gradient: ["#3A0000", "#771E1E"],
+    url: "https://fakeflix-ug.vercel.app",
+    tech: ["typescript", "react", "sass", "vercel"],
   },
   {
     name: "Chain Puzzle Simulator",
@@ -95,7 +104,7 @@ export const PROJECTS: IProject[] = [
     description: "Incremental factory game about resource mining, exploration.",
     gradient: ["#245B57", "#004741"],
     url: "https://ulik-space-factory.vercel.app/",
-    tech: ["vuejs", "css", "html", "javascript"],
+    tech: ["vuejs", "css", "html", "javascript", "vercel"],
   },
   {
     name: "Art of Silence",
@@ -140,7 +149,7 @@ export const PROJECTS: IProject[] = [
     description: "League of Legends login screen with Next.js",
     gradient: ["#142D46", "#2E4964"],
     url: "https://league-client-next-js.vercel.app/",
-    tech: ["next"],
+    tech: ["next", "vercel"],
   },
   {
     name: "Math Square",
@@ -243,7 +252,7 @@ export const SKILLS = {
     "less",
   ],
   userInterface: ["figma", "sketch", "illustrator", "photoshop"],
-  other: ["github", "unreal", "godot", "unity", "git", "aftereffects", "lightroom"],
+  other: ["github", "vercel", "unreal", "godot", "unity", "git", "aftereffects", "lightroom"],
 };
 
 export enum Branch {
