@@ -122,7 +122,7 @@ export const PROJECTS: IProject[] = [
     description: "Operius from OperaGX but Ulikius version",
     gradient: ["#3A0000", "#771E1E"],
     url: "https://ulikgames.github.io/Ulikius/",
-    tech: ["html", "javascript"],
+    tech: ["html", "css", "javascript"],
   },
   {
     name: "Windows XP",
