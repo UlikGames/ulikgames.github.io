@@ -354,7 +354,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "Started to web design course",
     size: ItemSize.SMALL,
     subtitle:
-      "Started to learn HTML/CSS/JS and end course with highest degree",
+      "Started to learn HTML/CSS/JS and end course with highest degree. I will add the certificate when coursera give my certificate :D",
     slideImage: "/timeline/certificate.jpg",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
