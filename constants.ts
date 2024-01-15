@@ -139,7 +139,7 @@ export const PROJECTS: IProject[] = [
     blurImage: "/projects/blur/league-randomizer-blur.png",
     description: "Generate a random League of Legends champion from all available champions within the game",
     gradient: ["#3d0668", "#54217b"],
-    url: "https://ulikgames.github.io/Tic-Tac-Toe-Neon/",
+    url: "https://ulikgames.github.io/League-Champ-Randomizer/",
     tech: ["html", "css", "javascript"],
   },
   {
